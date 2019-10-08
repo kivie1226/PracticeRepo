@@ -1,1 +1,1 @@
-# praciceRepo
+# practiceRepo
